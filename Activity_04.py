@@ -1,6 +1,4 @@
-var1 =  input ("enter the first number:")
-print(var1)
-var2 = input ("enter the second number:")
-print(var2)
-sum = int(var1) + int(var2)
-print (sum) 
+var1 = int(input("Enter the first number: "))
+var2 = int(input("Enter the second number: "))
+sum = var1 + var2
+print("%d + %d = %d" %(var1, var2, sum))
