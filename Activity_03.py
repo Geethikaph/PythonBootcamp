@@ -1,6 +1,6 @@
-var1 =  input ("enter the first string")
+var1 =  input ("enter the first string:")
 print(var1)
-var2 = input ("enter the second string ")
+var2 = input ("enter the second string:")
 print(var2)
-result = var1 + var2 + "\n"
-print (result*5) 
+result = var1 + var2 
+print (result + "\n" + result*5) 
