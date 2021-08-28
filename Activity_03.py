@@ -1,11 +1,4 @@
-var1 = "Good"
-var2 = "Morning"
-result = var1 + var2
-print (result*5)
-
-#newline challenge
-var1 = "Good"
-var2 = "Morning \n"
-result = var1 + var2
-print (result*5)
-
+var1 =  " good "
+var2 =  " morning "
+result = var1 + var2 + "\n"
+print (result*5) 
