@@ -1,2 +1,53 @@
 Copy paste the all the commands that you executed on IDLE:
+#sum
+var1 = 273.15
+var2 = 25
+
+sum = 273.15+25
+print(sum)
+
+#difference
+var1 = 911
+var2 = 314
+
+difference = 911-314
+print(difference)
+
+#product
+var1 = 3
+var2 = 19
+
+product = 3*19
+
+print(product)
+
+#divide
+var1 = 2020
+var2 = 17
+
+divide = 2020/17
+print(divide)
+
+#quotient
+var1 = 2020
+var2 = 19
+
+quotient = 2020/19
+print(quotient)
+
+#remainder
+var1 = 2021
+var2 = 21
+
+remainder = 2021/21
+print(remainder)
+
+#power
+var1 =2
+var2 = 7
+
+power = 2**7
+print(power)
+
+
 
