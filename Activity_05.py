@@ -1,5 +1,3 @@
-list = []
- 
 list = [int(num) for num in input("Enter five numbers : ").split()]
 list_sum = sum(list)
 
